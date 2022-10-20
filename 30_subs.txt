@@ -1,0 +1,35 @@
+# Fieldmap: None ; Dataset: NKI
+sub-A00055908_ses-FLU1
+sub-A00077397_ses-BAS1
+sub-A00039607_ses-BAS1
+sub-A00073942_ses-FLU2
+sub-A00028287_ses-BAS1
+sub-A00081727_ses-FLU2
+sub-A00074639_ses-BAS1
+sub-A00028287_ses-BAS1
+sub-A00055215_ses-BAS1
+sub-A00055462_ses-BAS1
+
+# Fieldname: phasediff ; Dataset: PNC
+sub-578652819_ses-PNC1
+sub-3319985890_ses-PNC1
+sub-2412716526_ses-PNC1
+sub-494764211_ses-PNC2
+sub-2485879167_ses-PNC1
+sub-1654119012_ses-PNC1
+sub-3957619959_ses-PNC1
+sub-3176046588_ses-PNC1
+sub-56162563_ses-PNC1
+sub-2939479952_ses-PNC1
+
+# Fieldmap: epi ; Dataset: HBN
+sub-NDARMU791UN7_ses-HBNsiteRU
+sub-NDARZP630WYL_ses-HBNsiteRU
+sub-NDARAX283MAK_ses-HBNsiteRU
+sub-NDARFM229HHA_ses-HBNsiteCBIC
+sub-NDARXY162ERA_ses-HBNsiteRU
+sub-NDARTC794GZ5_ses-HBNsiteCBIC
+sub-NDARJM296MDW_ses-HBNsiteRU
+sub-NDARZA694WHF_ses-HBNsiteRU
+sub-NDARHW968ABB_ses-HBNsiteCBIC
+sub-NDARMB945WN7_ses-HBNsiteCUNY
